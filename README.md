@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning ...about the crypto space and content creation
 - 💞️ I’m looking to collaborate on ...new creative projects
 - 📫 How to reach me ...@jockytran
-I am a content creator currently exploring the crypto space. I want to help change the world to spread positivty and creativity in ways never seen before.
+I am a content creator currently exploring the crypto space. I want to help change the world by spreading positivty and creativity in ways never seen before.
 <!---
 --->
