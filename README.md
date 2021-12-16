@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @jockytran
-- 👀 I’m interested in ... Creative direction
-- 🌱 I’m currently learning ... ;)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Adventures and helping the world
+- 🌱 I’m currently learning ...about the crypto space and content creation
+- 💞️ I’m looking to collaborate on ...new creative projects
 - 📫 How to reach me ...@jockytran
-
+I am a content creator currently exploring the crypto space. I want to help change the world to spread positivty and creativity in ways never seen before.
 <!---
-jockytran/jockytran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
